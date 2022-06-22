@@ -27,7 +27,8 @@
 
 ### Item 1 - Criando Arrays
 
-Descrição do item 1. O que ele faz, e qual é o exercício. Aqui também um link para o arquivo de template, se necessário.
+**Descrição do item 1. O que ele faz, e qual é o exercício. Aqui também um link para o arquivo de template, se necessário.**
+
 No primeiro exercício vamos praticar a criação de arrays. 
 Crie 3 arrays diferentes:
 - O primeiro deve possuir apenas números, e estes números não devem seguir nenhuma ordem específica. 
@@ -55,3 +56,8 @@ Agora, vamos manipular os arrays, adicionando ou removendo informações. Para i
 ### Verificação dos exercícios
 
 Instruções para executar os testes (talvez com jest [mas aí precisa de node], do react pra frente é ok)
+
+### Informações úteis
+- Link pra MDN desse assunto
+- Link para a doc do React
+- Link para a doc da biblioteca sendo usada
