@@ -14,7 +14,7 @@
 **Siga os passos abaixo ao terminar seu projeto, para enviá-lo:**
 
 - [ ]  Envie um Pull Request da sua branch recém enviada, para que seja possível fazer o merge depois. **POR FAVOR NAO FAÇA O MERGE DO SEU PRÓPRIO PULL REQUEST**
-- [ ]  Adicione as pessoas monitoras da turma como avaliadoras do pull request
+- [ ] Após feedback e correção, aprove seu Pull Request e faça o merge
 - [ ]  Seu projeto será considerado completo quando a aprovação e o merge com a main acontecerem.
 
 ## Tema da aula
