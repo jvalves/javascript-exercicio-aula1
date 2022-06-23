@@ -5,7 +5,6 @@
 **Siga esses passos pra fazer o setup e poder trabalhar no seu projeto:**
 
 - [ ]  Crie um **fork** deste projeto. (Esqueceu como se faz? Clica **aqui**)
-- [ ]  Adicione o time de ensino como collaborator no github
 - [ ]  Clone sua PRÓPRIA versão do repositório (e não da Labenu por engano)
 - [ ]  Crie uma nova branch: git checkout -b `<turma-nome-sobrenome>`.
 - [ ]  Implemente o projeto na branch `<turma-nome-sobrenome>`. Lembre-se de fazer commits.
